@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /admin/
+
+Sitemap: http://www.karthikeyainfominds.com/sitemap.xml
