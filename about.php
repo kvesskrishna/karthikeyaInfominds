@@ -304,18 +304,18 @@ Web Designing Company vijayawada | web development company vijayawada | website 
 								
 							</div><div class="item-partner">
 								<div class="image">
-									<img class="img-responsive" src="img/updating.gif" alt="Updating">
+									<img class="img-responsive" src="img/sderma.jpg" alt="Client">
 								</div>
 								
 							</div><div class="item-partner">
 								<div class="image">
-									<img class="img-responsive" src="img/updating.gif" alt="Updating">
+									<img class="img-responsive" src="img/lightkids.png" alt="Client">
 								</div>
 								
 							</div>
 							<div class="item-partner">
 								<div class="image">
-									<img class="img-responsive" src="img/updating.gif" alt="Updating">
+									<img class="img-responsive" src="img/promisebags.png" alt="Client">
 								</div>
 								
 							</div>
